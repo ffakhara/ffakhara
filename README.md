@@ -52,5 +52,5 @@ Full Stack Web Developer| Learner
 </p>
 
 [instagram]: https://instagram.com/fakharafarhan/
-[linkedin]: https://linkedin.com/in/fakhara-farhan
+[linkedin]: https://linkedin.com/in/fakhara-farhan-90837a262/
 
