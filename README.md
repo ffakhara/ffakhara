@@ -10,7 +10,7 @@ Full Stack Web Developer| Learner
 
 - 📫 How to reach me **fakharafarhan@gmail.com**
 
-- ⚡ what I enjoy **cooking,traveling,spending time with kids😂**
+- ⚡ what I enjoy **cooking,traveling,playng Big Brain with kids😂**
 
 ### Connect with me:
 
