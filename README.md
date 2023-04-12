@@ -4,8 +4,6 @@
 Full Stack Web Developer| Learner
 
 ?></h3>
-<p align="center"> <img src="dev-working.gif" alt=""/> </p>
-
 - 🔭 I’m currently working on **Full stack E-commerce Website**
 
 - 🌱 I’m currently learning **React**
